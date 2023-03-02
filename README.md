@@ -67,15 +67,15 @@ if (INV_on) {
 Carrier Based PWM (Triangular wave)
 
 ## Result
-![plot1](https://user-images.githubusercontent.com/125186303/222340089-d49b9aee-744f-4849-a70e-c992dd164d38.jpg)
+![plot1](https://user-images.githubusercontent.com/125186303/222340804-8b2fd479-e1c2-44bc-8fe4-0d9a34f01d61.jpg)
 
 Output Voltage sin wave, Voltage modulation ratio (0.8)
 
-![plot2](https://user-images.githubusercontent.com/125186303/222340096-cd952fa9-bcf5-437c-9217-e0a7b657e0e4.jpg)
+![plot2](https://user-images.githubusercontent.com/125186303/222340820-b5d376da-139e-4a96-8b76-2cfd20e34f96.jpg)
 
 a-b line to line voltage, a Phase voltage, a Pole voltage
 
-![plot3](https://user-images.githubusercontent.com/125186303/222340101-1783eeef-06b2-47b2-9ac9-383a384df7f0.jpg)
+![plot3](https://user-images.githubusercontent.com/125186303/222340826-07035f78-6771-4332-aaab-20d1a888affd.jpg)
 
 Common mode current
 
