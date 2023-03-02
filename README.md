@@ -58,21 +58,26 @@ if (INV_on) {
 	}
 ```
 ## Plecs Circuit
-![DWI](https://user-images.githubusercontent.com/125186303/222142383-0c5303de-87a7-488b-91a4-75bc38dc2c5d.jpg)
+![3PINV](https://user-images.githubusercontent.com/125186303/222340012-c02789a9-75d5-4069-a074-c92be99d5a15.jpg)
 
 3Phase Inverter with RL loads
 
-![CBPWM](https://user-images.githubusercontent.com/125186303/222142544-26f8228f-d370-4870-a313-f7c4fd5197b8.jpg)
+![CBPWM](https://user-images.githubusercontent.com/125186303/222340084-4165c1c0-e514-41ab-840c-bd0e644defbd.jpg)
 
 Carrier Based PWM (Triangular wave)
 
 ## Result
+![plot1](https://user-images.githubusercontent.com/125186303/222340089-d49b9aee-744f-4849-a70e-c992dd164d38.jpg)
 
 Output Voltage sin wave, Voltage modulation ratio (0.8)
 
+![plot2](https://user-images.githubusercontent.com/125186303/222340096-cd952fa9-bcf5-437c-9217-e0a7b657e0e4.jpg)
+
 a-b line to line voltage, a Phase voltage, a Pole voltage
 
-common mode current
+![plot3](https://user-images.githubusercontent.com/125186303/222340101-1783eeef-06b2-47b2-9ac9-383a384df7f0.jpg)
+
+Common mode current
 
 
 ---
