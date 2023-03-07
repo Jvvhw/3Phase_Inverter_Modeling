@@ -79,6 +79,13 @@ a-b line to line voltage, a Phase voltage, a Pole voltage
 
 Common mode current
 
+![image](https://user-images.githubusercontent.com/125186303/223324190-9f3a741b-2811-4c4f-b5ed-012e524c67b1.png)
+
+Band-pass-filter를 사용한 기준파와 a상전압 비교, 
+
+진폭변조비가 1이 넘어가는 부분에서 과변조 영역에 돌입
+
+일정 수준 이상에서 a상전압은 더 이상 증가하지 
 
 ---
 ## Feedback
